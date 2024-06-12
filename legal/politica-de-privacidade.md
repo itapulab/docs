@@ -2,13 +2,11 @@
 
 ## Introdução
 
-Bem-vindo à ItapuLab! Esta Política de Privacidade descreve como coletamos, usamos, divulgamos e protegemos suas informações pessoais ao visitar nosso site (www.itapulab.com.br) e ao usar nossa aplicações web (ex.: cardapio.itapulab.com.br). Nós nos comprometemos a proteger sua privacidade de acordo com a Lei Geral de Proteção de Dados (LGPD).
+Boas-vindas à Itapulab! Esta Política de Privacidade descreve como coletamos, usamos, divulgamos e protegemos suas informações pessoais obtidas ao visitar nosso site (www.itapulab.com.br) e ao usar nossas aplicações web acessadas pelo domínio itapulab.com.br. Nós nos comprometemos a proteger sua privacidade de acordo com a Lei Geral de Proteção de Dados (LGPD).
 
 ## Coleta de Dados
 
 ### Dados Coletados
-
-#### Site (www.itapulab.com.br)
 
 - **Dados de navegação**: Coletamos informações sobre sua interação com nosso site, incluindo páginas visitadas, tempo gasto, cliques, informações agregadas sobre o uso do site, como dados demográficos e outras atividades.
 - **Dados pessoais**: Coletamos dados que você fornece ao se cadastrar em alguma de nossas aplicações web e aqueles registrados durante o uso da mesma.

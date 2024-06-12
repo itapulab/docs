@@ -2,14 +2,14 @@
 
 ## Introdução
 
-Bem-vindo à ItapuLab! Estes Termos de Uso regulam o acesso e uso do nossas aplicações web (ex.: cardapio.itapulab.com.br). Ao acessar ou usar nossos serviços, você concorda com estes Termos de Uso.
+Boas-vindas à Itapulab! Estes Termos de Uso regulam o acesso e uso das nossas aplicações web acessadas pelo domínio itapulab.com.br. Ao acessar ou usar nossos serviços, você concorda com estes Termos de Uso.
 
 ## Acesso aos Serviços
 
 ### Requisitos
 
 - **Idade**: Você deve ter pelo menos 18 anos para utilizar nossos serviços.
-- **Cadastro**: Pode ser necessário criar uma conta para acessar determinadas funcionalidades da aplicação web.
+- **Cadastro**: Pode ser necessário criar uma conta para acessar determinadas funcionalidades das aplicações web.
 
 ### Responsabilidades do Usuário
 
