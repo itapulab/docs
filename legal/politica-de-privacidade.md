@@ -47,6 +47,20 @@ Boas-vindas à Itapulab! Esta Política de Privacidade descreve como coletamos, 
 - **Exclusão**: Pode solicitar a exclusão de seus dados pessoais, respeitando os prazos legais e regulatórios.
 - **Revogação de Consentimento**: Pode revogar seu consentimento para o processamento de dados a qualquer momento.
 
+## Instruções para Exclusão de Dados
+
+Se você deseja excluir seus dados pessoais dos nossos registros, siga as instruções abaixo:
+
+1. Envie um e-mail para nosso suporte em: [contato@itapulab.com.br](mailto:contato@itapulab.com.br) com o assunto "Solicitação de Exclusão de Dados".
+2. No corpo do e-mail, inclua as seguintes informações:
+    - Seu nome completo.
+    - O e-mail associado à sua conta.
+    - Uma breve descrição do motivo da solicitação.
+
+Nossa equipe de suporte irá processar sua solicitação e excluir seus dados em até 30 dias úteis. Você receberá uma confirmação por e-mail quando a exclusão for concluída.
+
+Se você tiver alguma dúvida sobre este processo, entre em contato conosco pelo mesmo e-mail.
+
 ## Contato
 
 Para exercer seus direitos ou se tiver dúvidas sobre esta Política de Privacidade, entre em contato conosco:
